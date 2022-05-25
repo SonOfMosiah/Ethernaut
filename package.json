@@ -10,7 +10,21 @@
     "level7": "npx hardhat run scripts/level7.ts --network rinkeby",
     "level8": "npx hardhat run scripts/level8.ts --network rinkeby",
     "level9": "npx hardhat run scripts/level9.ts --network rinkeby",
-    "level10": "npx hardhat run scripts/level10.ts --network rinkeby"
+    "level10": "npx hardhat run scripts/level10.ts --network rinkeby",
+    "level11": "npx hardhat run scripts/level11.ts --network rinkeby",
+    "level12": "npx hardhat run scripts/level12.ts --network rinkeby",
+    "level13": "npx hardhat run scripts/level13.ts --network rinkeby",
+    "level14": "npx hardhat run scripts/level14.ts --network rinkeby",
+    "level15": "npx hardhat run scripts/level15.ts --network rinkeby",
+    "level16": "npx hardhat run scripts/level16.ts --network rinkeby",
+    "level17": "npx hardhat run scripts/level17.ts --network rinkeby",
+    "level18": "npx hardhat run scripts/level18.ts --network rinkeby",
+    "level19": "npx hardhat run scripts/level19.ts --network rinkeby",
+    "level20": "npx hardhat run scripts/level20.ts --network rinkeby",
+    "level21": "npx hardhat run scripts/level21.ts --network rinkeby",
+    "level22": "npx hardhat run scripts/level22.ts --network rinkeby",
+    "level23": "npx hardhat run scripts/level23.ts --network rinkeby",
+    "level24": "npx hardhat run scripts/level24.ts --network rinkeby"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
@@ -45,7 +59,7 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/contracts": "^4.6.0",
     "ololog": "^1.1.175"
   }
 }
